@@ -1,0 +1,13 @@
+html{
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    background:#eee;
+    background-color: yellowgreen;
+}
+
+* {
+    box-sizing: border-box;
+}
